@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.98
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 18500.98
+    },
+    {
+      "id": 3,
+      "name": "samsung S20+",
+      "price": 4655.98
+    },
+    {
+      "id": 4,
+      "name": "Mouse USB",
+      "price": 12.98
+    },
+    {
+      "id": 5,
+      "name": "teclado USB",
+      "price": 122.98
+    }
+  ]
+}
